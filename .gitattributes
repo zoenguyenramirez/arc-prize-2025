@@ -1,0 +1,7 @@
+intermediate_data/*.bin filter=lfs diff=lfs merge=lfs -text
+intermediate_data/*.pth filter=lfs diff=lfs merge=lfs -text
+intermediate_data/*.pt filter=lfs diff=lfs merge=lfs -text
+intermediate_data/*.pkl filter=lfs diff=lfs merge=lfs -text
+intermediate_data/*.npz filter=lfs diff=lfs merge=lfs -text
+intermediate_data/*.h5 filter=lfs diff=lfs merge=lfs -text
+intermediate_data/*.hdf5 filter=lfs diff=lfs merge=lfs -text
